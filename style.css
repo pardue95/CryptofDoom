@@ -1,0 +1,23 @@
+<head>
+  <style>
+
+    body {
+      background-color: purple;
+    }
+
+    h1 {
+        color:blueviolet;
+        background-color: rgb(219, 221, 217);
+    }
+
+    h2 {
+        color: crimson;
+        font-weight: bolder;
+        font-style: oblique;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-decoration: darkorange;
+    }
+
+
+  </style>
+</head>
